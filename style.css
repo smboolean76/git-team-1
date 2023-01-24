@@ -9,3 +9,25 @@
 body {
   font-size: 1.2rem;
 }
+
+header {
+  background-color: antiquewhite;
+  text-align: center;
+  padding: 20px;
+}
+/* NAV */
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 10px;
+}
+
+nav ul li a {
+  color: brown;
+  text-decoration: none;
+  font-weight: bold;
+}
