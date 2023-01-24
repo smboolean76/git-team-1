@@ -32,6 +32,13 @@ nav ul li a {
   font-weight: bold;
 }
 
+/* about us */
+
+.about-us {
+  text-align: center;
+  padding: 0.625rem;
+}
+
 /* FOOTER */
 footer {
   text-align: center;
