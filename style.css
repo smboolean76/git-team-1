@@ -31,3 +31,11 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
 }
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: lightcyan;
+  border-top: 3px solid black;
+}
