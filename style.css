@@ -9,3 +9,18 @@
 body {
   font-size: 1.2rem;
 }
+
+header {
+  background-color: antiquewhite;
+  text-align: center;
+}
+/* NAV */
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 10px;
+}
